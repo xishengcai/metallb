@@ -3,22 +3,20 @@ module go.universe.tf/metallb
 go 1.16
 
 require (
-	github.com/armon/go-radix v1.0.0 // indirect
 	github.com/davecgh/go-spew v1.1.1
 	github.com/dgryski/go-farm v0.0.0-20190423205320-6a90982ecee2 // indirect
 	github.com/eapache/channels v1.1.0 // indirect
-	github.com/eapache/queue v1.1.0 // indirect
-	github.com/go-kit/kit v0.9.0
+	github.com/go-kit/kit v0.12.0
 	github.com/go-kit/log v0.2.0
 	github.com/golang/protobuf v1.5.2
 	github.com/google/go-cmp v0.5.7
-	github.com/hashicorp/memberlist v0.1.7
+	github.com/hashicorp/memberlist v0.2.2
 	github.com/mdlayher/arp v0.0.0-20220221190821-c37aaafac7f9
 	github.com/mdlayher/ethernet v0.0.0-20220221185849-529eae5b6118
 	github.com/mdlayher/ndp v0.0.0-20200602162440-17ab9e3e5567
 	github.com/mikioh/ipaddr v0.0.0-20190404000644-d465c8ab6721
-	github.com/onsi/ginkgo v1.14.1
-	github.com/onsi/gomega v1.10.2
+	github.com/onsi/ginkgo v1.16.2
+	github.com/onsi/gomega v1.13.0
 	github.com/ory/dockertest/v3 v3.8.0
 	github.com/osrg/gobgp v2.0.0+incompatible
 	github.com/pkg/errors v0.9.1
